@@ -1,5 +1,10 @@
 {
   "name": "react-table",
+  "author": {
+    "email": "john.lawal@jlawal.com",
+    "name": "John Lawal",
+    "url": "https://jlawal.com"
+  },
   "version": "0.1.0",
   "private": true,
   "dependencies": {
